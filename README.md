@@ -26,6 +26,14 @@ Win11 Safe Cleaner 是一款 Windows 11 圖形化安全清理工具。它會先�
 
 工具採用 Windows 11 Fluent Design 深色介面，以 Windows PowerShell 5.1 執行，不需要安裝 PowerShell 7 或任何第三方 PowerShell Module。
 
+## 介面預覽
+
+<p align="center">
+  <img src="assets/screenshot-main.png" alt="Win11 Safe Cleaner v3.1.1 圖形化介面" width="1100">
+</p>
+
+> 預覽畫面中的使用者名稱與系統版本已使用示意資訊，以保護個人隱私。
+
 ## 可以清理什麼？
 
 | 清理項目 | 說明 |
